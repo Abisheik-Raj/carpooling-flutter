@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "78078324020",
+    "project_id": "liftloop-flutter-app",
+    "storage_bucket": "liftloop-flutter-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78078324020:android:9c79bf594b61a4cf3e8961",
+        "android_client_info": {
+          "package_name": "com.example.carpooling_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZL7TLMzenPi_0uB2VvV9OmKmspFt2X14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
